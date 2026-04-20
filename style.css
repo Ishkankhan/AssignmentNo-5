@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding:0vh;
+  
+}
+li a{
+    text-decoration: none;
+    color:rgb(96, 177, 247);
+    position: fixed;
+    margin-left: 6vw;
+}
+li{
+    display: inline-block;
+    margin: 3vw 0vh;
+    text-align: center;
+    margin-left: 25vh;
+}
+ul{
+    list-style: none;
+    margin-left: 7vh;
+}
+.Img{
+    margin-right: 88vh;
+    width: 22vh;
+    position: fixed;
+}
+.N{
+   display: inline-block;
+   margin-left: 25vw;
+   position: fixed;
+   top:3vw; 
+}
+.left-box{
+    margin-left: 10vw;
+    top: 35vh;
+    position: fixed;
+    border: 2vh solid white;
+    width: 25vw;
+    height: 45vh;
+}
+.right-box{
+    
+    margin-left: 60vw;
+    top: 35vh;
+    position:fixed;
+    border: 2vh solid white;
+    width: 25vw;
+    height: 45vh;
+}
+.img{
+    right: 17vh;
+   bottom: 17vh;
+    position:fixed;
+    width: 35vw;
+    height: 58vh;
+}
+.H{
+    color: rgb(83, 83, 240);
+}
+.B{
+    color: white;
+    width: 12vw;
+    height: 5vh;
+    background-color: rgb(83, 83, 240);
+    border-radius: 2vw ;
+}
